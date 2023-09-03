@@ -1,0 +1,49 @@
+body{
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-weight: 100;
+  
+}
+
+.btn{
+    height: 170px;
+    width: 170px;
+    border-radius: 10%;
+    border: 7px solid white;
+    margin: 7px;
+}
+.line-one{
+    display: flex;
+    justify-content: center;
+}
+.line-two{
+    display: flex;
+    justify-content: center;
+}
+.red{
+    background-color: red;
+}
+.yellow{
+    background-color: rgb(255, 255, 81);
+}
+.green{
+    background-color: rgba(10, 157, 10, 0.473);
+}
+.purple{
+    background-color: purple;
+}
+.white{
+    background-color: white;
+}
+.aliceblue{
+    background-color: aliceblue;
+}
+#start_game{
+    background-color: green;
+    color: white;
+    font-size: 15px;
+    font-weight: 100;
+    border: 2px solid white;
+    border-radius: 10%;
+}
